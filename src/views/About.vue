@@ -1,7 +1,7 @@
 <template>
   <div class="about-section">
     <div class="content-text">
-      <h2>About Mo . Bendary Shop</h2>
+      <h2>About  Mo . Bendary Shop</h2>
       <p>
         Vue Shop is a simple e-commerce demo project built with 
         <strong>Vue 3</strong>, <strong>Vue Router</strong>, and <strong>Bootstrap 5</strong>. 
