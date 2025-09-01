@@ -1,7 +1,7 @@
 <img width="1366" height="663" alt="Screenshot 2025-09-01 012805" src="https://github.com/user-attachments/assets/3d2f7f9c-50a3-49c8-b62e-d745239f828c" />
 
 
-# 🛍️ Vue Shop Pro
+# 🛍️ Mo.Bendary Shop Pro
 
 A simple e-commerce shop built with **Vue.js 3**.  
 It allows users to:
